@@ -1,0 +1,120 @@
+book_id,book_title,Authorname,book_genres,book_language,book_total_pages,book_published_date,book_price,pub_id,book_availabilty
+2001,Meditations,"Marcus Aurelius",317,english,184,2024-07-18,139.00,1001,Available
+2002,"300 Brave Men","Gautam Pradhan",310,english,606,2017-08-09,249.00,1011,Unavailable
+2003,"Match Me If You Can","Swati Hegde",321,english,304,2024-06-17,299.00,1006,Unavailable
+2004,"THE LIBRARY MAN OF INDIA","P.P. Sathyan",302,english,144,2024-09-05,295.00,1004,Unavailable
+2005,"Restless Lives","Harish Bhat",319,english,96,2023-10-19,399.00,1006,Unavailable
+2006,"Chasing the Monsoon","Alexander Frater",326,english,274,2005-05-06,650.00,1015,Unavailable
+2007,"The Lucknow Cookbook","Chand Sur",308,english,252,2017-12-05,499.00,1009,Available
+2008,"45 Days In A Cancer Hospital","Alka Dimri Saklani",325,english,298,2012-01-01,195.00,1011,Available
+2009,"Great Hindu Civilisation","Pavan K Varma",310,english,416,2023-07-12,699.00,1002,Unavailable
+2010,"Data Structures","KV Sambasivarao",324,english,488,2024-01-13,749.00,1008,Unavailable
+2011,"Lessons in Chemistry","Bonnie Garmus",312,english,400,2023-03-11,559.00,1006,Unavailable
+2012,"Lahore : The Architectural Heritage","Lucy Peck",301,english,380,2017-06-30,795.00,1003,Available
+2013,"The Devil in Blood","Nikhil Uprety",311,english,270,2023-11-20,350.00,1005,Available
+2014,"Freedom is not Free","Shiv Khera",323,english,250,2014-07-24,399.00,1013,Unavailable
+2015,"The Essential Kerala Cookbook","Vijayan Kannampilly",308,english,300,2022-10-24,350.00,1013,Available
+2016,"She, the Leader: Women in Indian Politics","Nidhi Sharma",320,english,392,2023-08-05,999.00,1009,Unavailable
+2017,"Inspired By India","Phyllida Jay",301,english,256,2022-04-30,3300.00,1003,Unavailable
+2018,"Venom ","Satyarth Nayak",307,english,336,2024-01-08,399.00,1025,Unavailable
+2019,"After the Storm","Lakshmy Ramanathan",321,english,236,2018-07-13,287.00,1010,Unavailable
+2020,"Fearful Pleasure","P.A. Chawla",306,english,260,2024-02-19,325.00,1005,Unavailable
+2021,"Murder And A New Year",K.P.J,325,english,205,2021-08-22,250.00,1014,Unavailable
+2022,"EMPIRES OF INDIA: THE MUGHALS",Moonstone,303,english,128,2024-07-05,295.00,1004,Unavailable
+2023,ARJUNA,"Anuja Chandramouli",313,english,364,2013-03-05,349.00,1011,Available
+2024,"The Practical Marketer","Saurabh Bajaj",314,english,280,2024-08-20,499.00,1001,Available
+2025,"A Journey of Dreams","Ram S.Verma",323,english,208,2024-05-08,350.00,1007,Unavailable
+2026,"Delhi Then & Delhi Now","Pramod Kapoor",318,english,202,2019-09-30,4995.00,1003,Available
+2027,Never,"Ken Follett",315,english,832,2021-11-09,699.00,1015,Unavailable
+2028,"Kaikeyi: The Warrior Queen of Koshala","Jai Shukla",310,english,190,2021-04-29,250.00,1005,Available
+2029,"50 Films That Changed Bollywood, 1995-2015","Shubhra Gupta",318,english,296,2016-12-25,550.00,1010,Available
+2030,"The Mystery of the Portuguese Hearts","Manjiri Prabhu",315,english,328,2024-05-20,499.00,1001,Available
+2031,"Missing, Presumed Dead","Kiran Manral",307,english,268,2024-01-08,350.00,1025,Available
+2032,"Idioms and Proverbs",U.Saraswathi,313,english,200,2021-05-12,170.00,1012,Unavailable
+2033,"Indian Punter League: The True Story of the Fake Ipl","Abhishek Bhatt",307,english,246,2023-11-27,399.00,1002,Available
+2034,"21 Secrets to Weight Loss Success","Andrew Cate",309,english,70,2022-08-24,130.00,1012,Available
+2035,"You Can","George Matthew Adams",316,english,176,2024-04-08,149.00,1007,Unavailable
+2036,"The Light Of The Sea Crystal","Vritika Srivastava",303,english,179,2023-04-04,475.00,1014,Unavailable
+2037,"Battling for India","Githa Hariharan",320,english,360,2019-01-01,298.00,1020,Available
+2038,"Deep Sea to Deep Space","Dr. Kasthuri Venkateswaran",322,english,460,2019-06-23,600.00,1012,Available
+2039,"The Strong Mind","Ryuho Okawa",323,english,184,2024-05-20,350.00,1001,Available
+2040,"City as Memory: A Short Biography of Srinagar","Sadaf Wani",326,english,192,2024-07-08,399.00,1009,Available
+2041,"SUGAR: The Silent Killer","Damayanti Datta",309,english,208,2022-07-05,295.00,1004,Unavailable
+2042,"The History of the First World War","B H Liddell Hart",310,english,528,2014-07-31,999.00,1015,Available
+2043,"Caught in a Web","Sandeep Sharma",325,english,160,2024-07-08,299.00,1007,Available
+2044,"All the Love You Deserve","Preeti Shenoy",307,english,244,2023-11-30,250.00,1002,Available
+2045,"A Theory of Human Motivation","Abraham H Maslow",322,english,24,2017-01-01,674.00,1013,Available
+2046,"At The Helm","V. Krishnamurthy",302,english,328,2014-12-10,2890.00,1010,Unavailable
+2047,"Cloud Computing",Dr.U.S.Pandey,324,english,400,2014-05-09,525.00,1008,Unavailable
+2048,"Saving Wild India: A Blueprint for Change","Valmik Thapar",327,english,168,2015-07-20,499.00,1009,Unavailable
+2049,"The Library of Borrowed Hearts","Lucy Gilmore",307,english,368,2024-03-01,599.00,1006,Unavailable
+2050,"Advanced Chemistry of Rare Elements","Satya Prakash",324,english,720,1956-01-17,715.00,1008,Available
+2051,"Simply South: Traditional Vegetarian Cooking","Chandra Padmanabhan",308,english,196,2023-01-30,599.00,1002,Unavailable
+2052,Amaranthine,"Vikrant Bharadwaj",322,english,430,2018-01-01,424.00,1011,Available
+2053,"George Washington: A Biography","Kaushal Goyal",302,english,200,1900-01-01,295.00,1013,Available
+2054,"The Murder in the Rain","Moitrayee Bhaduri",325,english,192,2024-07-08,350.00,1007,Available
+2055,"Essays on the History of English Literature",V.Sundarajan,313,english,130,2024-01-21,130.00,1012,Unavailable
+2056,"SRIDEVI: THE SOUTH YEARS","Amborish Roychoudhury",302,english,195,2023-08-05,395.00,1004,Available
+2057,"Bhima Lone Warrior","MT Vasudevan Nair",307,english,300,2013-08-28,387.00,1010,Unavailable
+2058,"Ramakant Achrekar : Master Blaster’s Master","Kunal Purandare",302,english,194,2016-07-26,395.00,1003,Available
+2059,"Miracles for the Maharaja","Aditi Krishnakumar",306,english,256,2023-01-16,299.00,1006,Available
+2060,"Stress to Zest","Aritra Sarkar",307,english,376,2024-07-01,399.00,1006,Available
+2061,"India Greenfield Urban Future","Loraine Kennedy",304,english,308,2022-12-15,920.00,1019,Unavailable
+2062,"A Village Dies","Ivan Arthur",305,english,248,2016-10-12,299.00,1020,Available
+2063,"Rendezvous with the Stock Market","Shiv Arya",314,english,51,2024-01-01,125.00,1023,Unavailable
+2064,"The Half Mother : A Novel","Shahnaz Bashir",305,english,192,2014-06-15,350.00,1016,Unavailable
+2065,"Secularism as Misdirection","Nivedita Menon",317,english,494,2023-10-30,970.00,1019,Available
+2066,"Political Thinkers","David Boucher",320,english,664,2016-08-12,1345.00,1017,Available
+2067,"Pandora Box","H L Agnihotri",319,english,75,2022-09-13,150.00,1023,Unavailable
+2068,"Boy, Unloved","Damodar Mauzo",305,english,360,2024-03-05,351.00,1020,Available
+2069,"Horror In The East","Laurence Rees",311,english,184,2002-09-19,2470.00,1016,Available
+2070,"Windows to Wonder",Jyotsna,303,english,200,2024-06-24,1500.00,1022,Available
+2071,"The Lighter Side of Technology in Education","Aaron Bacall",312,english,96,2003-02-01,1686.00,1018,Unavailable
+2072,"Tipu, Sultan of the Siwaliks","Amirtharaj Christy Williams",327,english,200,2021-01-01,258.00,1021,Available
+2073,"Camels in the Sky",P.J.Mathew,326,english,214,2018-11-01,595.00,1017,Unavailable
+2074,"My Discovery of America","Bhagaban Chandra Patra",316,english,121,2021-01-01,200.00,1023,Available
+2075,"Indian Foreign Policy","Sumit Ganguly",320,english,224,2015-07-13,295.00,1017,Available
+2076,"Sholayar: A nightmare in the jungle","RK Pillai",327,english,188,2024-06-14,280.00,1022,Unavailable
+2077,"The Travelling Belly","Kalyan Karmakar",308,english,282,2016-10-15,499.00,1016,Unavailable
+2078,"Pearls of Wisdom","Ashok Sawhney",316,english,314,2018-01-15,199.00,1025,Unavailable
+2079,"Keeping Better Company","Jonathan Charkham",314,english,240,2008-08-20,1895.00,1017,Unavailable
+2080,"The Art of The North- East Frontiers of India","Verrier Elwin",301,english,227,2023-01-01,895.00,1024,Available
+2081,"A Thousand Yearnings","Ralph Russell",319,english,408,2017-08-10,407.00,1020,Available
+2082,"Ten Classics","Anitaa Padhye",306,english,336,2024-01-08,1999.00,1025,Unavailable
+2083,"Kerala Kaleidoscope","T N Venugopalan",316,english,264,2024-07-31,325.00,1022,Unavailable
+2084,Horrorology,"Stephen Jones",311,english,416,2016-09-22,725.00,1016,Available
+2085,"Exploring Heritage Tourism in Jammu","Mahesh Kaul",326,english,176,2023-01-01,895.00,1024,Available
+2086,"BETWEEN HEAVEN AND EARTH","Ruskin Bond",326,english,432,2022-08-22,452.00,1020,Available
+2087,"Second Meals: Art of cooking through food scraps","Davinder Kumar",308,english,138,2021-01-01,1025.00,1024,Unavailable
+2088,"Catching Fire","Suzanne Collins",303,english,448,2011-12-01,314.00,1021,Available
+2089,"Dare To Win","Jack Canfield",323,english,221,2012-07-01,399.00,1025,Available
+2090,"Aim for the Heart","AI Tompkins",312,english,496,2017-01-26,8696.00,1018,Available
+2091,"A Concise History of Modern Architecture In India","Jon Lang",301,english,214,2010-01-01,800.00,1019,Unavailable
+2092,"TRIBES OF INDIA: The Struggle for Survival","CHRISTOPH VON FÜRER-HAIMENDORF",310,english,238,2023-01-01,1270.00,1024,Unavailable
+2093,"Murder in the City","Supratim Sarkar",315,english,264,2018-02-10,219.00,1020,Unavailable
+2094,"Fundamentals of Remote Sensing","George Joseph",304,english,624,2018-03-11,995.00,1019,Available
+2095,"Mysterious Collection of Poems","Pabitra Adhikary",319,english,46,2023-07-18,160.00,1023,Unavailable
+2096,"The Hunger Games","Suzanne Collins",303,english,384,2009-01-01,650.00,1021,Available
+2097,"Lets Rewrite The Stars","Jagdish Prakash",319,english,100,2024-01-08,150.00,1025,Available
+2098,"20 Indians Who Changed the World","Shruthi Rao",316,english,240,2019-01-01,225.00,1020,Available
+2099,"LIFE ETERNAL","SUKUMAR DAS",319,english,120,2024-08-03,200.00,1022,Available
+2100,"The Selfish Giant","Oscar Wilde",303,english,32,2007-01-01,209.00,1021,Unavailable
+2101,"Care Of Eyes"," Dr J. Agarwal",309,english,128,2003-01-01,192.00,1004,Unavailable
+2102,"Bliss of Childhood","Pushpak Sarkar",306,english,294,2023-03-31,399.00,1011,Available
+2103,"Come Back to Me"," Mohsin Sayyed",321,english,280,2024-02-04,354.00,1022,Available
+2104,"Key Methods in Geography ","Nicholas Clifford",304,english,784,2023-04-26,3825.00,1018,Available
+2105,"The Mine","Arnab Ray",311,english,296,2024-02-21,499.00,1016,Available
+2106,"The Fallen","John Sutherland",325,english,352,2024-08-29,799.00,1016,Unavailable
+2107,"The Indian Village","Surinder S. Jodhka",316,english,296,2023-09-05,506.00,1009,Available
+2108,"THE LAW OF FORCE: The Violent Heart of Indian Politics","Thomas Blom Hansen",320,english,176,2021-02-10,331.00,1009,Available
+2109,"Paradise at War","Radha Kumar",310,english,416,2018-10-20,609.00,1009,Available
+2110,"Myanmar in the World","Abhijit Dutta",326,english,372,2018-11-20,799.00,1009,Unavailable
+2111,"On God","J. Krishnamurti",317,english,208,2024-05-20,399.00,1001,Available
+2112,"How I Made $2,000,000 in the Stock Market","Nicolas Darvas",314,english,184,2023-05-20,299.00,1001,Available
+2113,"Bankers  Game","Ashutosh Mishra",307,english,280,2020-01-21,359.00,1001,Unavailable
+2114,"A Soldier’s Diary : Kargil The Inside Story","Harinder Baweja",310,english,208,2018-07-18,495.00,1003,Unavailable
+2115,"Annapurna Devi: An Unheard Melody","Swapan Kumar Bondyopadhyay",302,english,190,2021-04-16,395.00,1003,Available
+2116,"Low Calorie Desserts","Namita Bhandare",308,english,95,2008-01-01,150.00,1003,Unavailable
+2117,"Delhi 360°","J P Losty",318,english,192,2023-04-11,2495.00,1003,Available
+2118,"The Book Of Emotions","Salman Akhtar",316,english,144,2012-07-27,250.00,1003,Available
+2119,"The Golden Tap","Kashyap Deorah",314,english,288,2017-01-01,595.00,1003,Available

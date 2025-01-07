@@ -1,0 +1,61 @@
+Card_no,Membership_Plans,fees,Borrower_name,Borrower_age,Borrower_address,Borrower_phone,branch_id
+1,"Haly Yearly",2700.00,Pavithra.J,22,"10/24, 5th main road, Vijaya Nagar, Velachery, Chennai",8715609342,B-03
+2,Registration,500.00,"Mohamed Ibrahim.S",22,"AP- 53, Fifth Cross Street, 12th Main Rd, L Block, Anna Nagar, Chennai",9791313432,B-02
+3,Registration,500.00,Karthick.S,27,"61, Serenity Avenue PG Hostel, 2, Rakkiappa St, PNK Garden, Mylapore, Chennai",8300012321,B-07
+4,Annual,3500.00,Mohan.K,34,"145,2nd Street, 97, Kumaran Kudil, Annex C, Thoraipakkam, Chennai",9655509213,B-06
+5,Annual,3500.00,Divya.A,31,"6, Bharani St, Bharathi Nagar, Tharamani, Chennai",9018976234,B-03
+6,Annual,3500.00,Vedika.S,28,"No.4, Avvaiyar St, Ambal Nagar, Ekkatuthangal, Chennai",9803579621,B-08
+7,"Haly Yearly",2700.00,Sanjay.M,22,"3, Sivaji St, T Nagar, T. Nagar, Chennai",8900128562,B-04
+8,Registration,500.00,Abisheik.A,34,"SUMATHI ILLAM, 39, New Tank Bund Rd, Otteri, Podikkadai, Chennai",7903218965,B-05
+9,"Haly Yearly",2700.00,Riya.M,29,"138, Peter Rd, Gopalapuram, Chennai",8760176441,B-01
+10,Registration,500.00,"Mohamed Riswan.M",27,"21, Tiru Narayana Guru Rd, Choolai, Chennai",8665490731,B-05
+11,Registration,500.00,Sheraya.S,38,"Vasantha Press Rd, Arunachalapuram, Adyar",8553190788,B-08
+12,Annual,3500.00,varun.P,26,"21, 1st Cross St, Lake Area, Nungambakkam, Chennai",9190762141,B-04
+13,"Haly Yearly",2700.00,Nivas.N,21,"No.12, 14, Ramapuram Ramasamy Street, Sadullakhan Nagar, Saidapet, Chennai",8865091241,B-04
+14,"Haly Yearly",2700.00,Amritha.A,28,"10, Selvam Nagar Rd, Selvam Nagar, Pallikaranai, Chennai",8019875998,B-06
+15,Annual,3500.00,Yazhini.R,27,"No: 3, Railway Gate Rd, Kilambakkam, Urapakkam, Chennai",9665580458,B-10
+16,Registration,500.00,Chiranjeevi.K,39,"14, Ashoka St, Sriram Colony, Alwarpet, Chennai",8732107932,B-09
+17,"Haly Yearly",2700.00,Sushmita.S,31,"1, Pillaiyar Koil St, Lalitha Nagar, Thiruvanmiyur, Chennai",8810972754,B-03
+18,Registration,500.00,Kajal.N,30,"SIPCOT IT Park, SBI building, Near Siruseri, Sipcot entrance, Egattur, Chennai",9978150910,B-10
+19,Annual,3500.00,Shiva.S,19,"No.130/2, 130, Eldams Rd, Subbarayan Nagar, Teynampet, Chennai",9663109721,B-01
+20,Registration,500.00,Yuvaraj.G,20,"820, 3rd Main Rd, Ram Nagar South, Madipakkam, Chennai",9491028835,B-03
+21,Registration,500.00,Arjun.G,27,"131, Avvai St, Tiruvalleeswarar Nagar, Thirumangalam, Anna Nagar West Extension, Chennai",8990277331,B-02
+22,"Haly Yearly",2700.00,Nikita.P,39,"1, 392, Kalatthu Mettu St, Sangam Colony, Kottivakkam, Chennai",9320869436,B-06
+23,Annual,3500.00,Nanthini.M,19,"98-105, Brick Kiln Rd, Otteri, Purasaiwakkam, Chennai",8775098224,B-05
+24,Annual,3500.00,Yogesh.G,28,"787+JRG, State Bank of India Colony, Raja Annamalai Puram, Chennai",7665490032,B-09
+25,Registration,500.00," Manish.M",33,"BACK SIDE, RAILWAY STATION, 9/65 13th cross street, Canal Bank Rd, Indira Nagar, Chennai",8099167834,B-08
+26,"Haly Yearly",2700.00,Gowri.G,39,"17, Godavari St, Bharathi Nagar, Tharamani, Chennai",9180521895,B-03
+27,Registration,500.00,Neeraj.M,36,"17/1, Hanuman Koil St, Jothi Nagar, West Mambalam, Chennai",7923380587,B-04
+28,Registration,500.00," Meera.M",25,"Old no 23, new no 80, St, Vinayaka Nagar Colony, Mylapore, Chennai",8995100032,B-07
+29,"Haly Yearly",2700.00,Balaji.S,24,"34/2, 2nd West Cross St, Amaravathi Nagar, Arumbakkam, Chennai",9891239770,B-02
+30,"Haly Yearly",2700.00,Sara.S,36,"7/4, V Koil St, Chokkalingam Nagar, Teynampet, Chennai",9094378809,B-01
+31,Registration,500.00,Vicky.B,30,"34, Rajiv Gandhi Salai (OMR) Inside SIPCOT IT Park, Siruseri, Egattur, Chennai",8608172076,B-10
+32,Registration,500.00,Akilan.A,31,"15, Vathiyar Thottam, 1st St, near Sai Baba temple, KG NTR Heritage, Rangarajapuram, Kodambakkam, Chennai",8220931562,B-04
+33,"Haly Yearly",2700.00,Sameera.M,27,"Kalaingar Karunanithi Street ,Opposite to Robot Restaurant, next to sathyabama & St.joseph college, Semmanjeri ,chennai",7803566821,B-10
+34,Annual,3500.00,Keerthi.K,34,"ATS Towers, 4/579, Old Mahabalipuram (IT corridor), Kottivakkam, Chennai",9552108762,B-06
+35,Annual,3500.00,Brinda.M,25,"20, Labour Well St, Balakrishnapuram, Adambakkam, Chennai",9790466241,B-03
+36,Annual,3500.00,Pranav.S,19,"60, MKN Rd, Ramapuram, Race View Colony, Guindy, Chennai",9791817234,B-08
+37,"Haly Yearly",2700.00,Darshan.P,24,"17/37, VC Garden I St, Saradapuram, Mandaveli, Chennai",8655521091,B-07
+38,"Haly Yearly",2700.00,Vasanth.M,31,"no.17 bhaggyum green medows triruvallur street, Okkiyum Thoraipakkam, Chennai",8720580022,B-06
+39,Annual,3500.00,Jaanu.S,18,"231, 12th Street, Thirukumarapuram, Annai Sathya Nagar, Arumbakkam, Chennai",9845501890,B-04
+40,Registration,500.00,Senthil.T,28,"4th cross street purushothaman nagar, Hasthinapuram, Chromepet, Chennai",8900252782,B-03
+41,Registration,500.00,Radha.M,27,"31/12, Ammai Appan St, Ganapathy Colony, Gopalapuram, Chennai",9803266582,B-01
+42,"Haly Yearly",2700.00,Saranya.M,18,"2861b, Y Block, 3rd street, 12th Main Rd, Anna Nagar, Chennai",9807865532,B-02
+43,Registration,500.00,Prabhu.M,21,"Balamurugan Nagar, Sri Ambal Nagar, Keelkattalai, Chennai",9885180552,B-03
+44,Annual,3500.00,Lokesh.M,28,"floor 18, 1st, St, Viswanatha Puram, Kodambakkam, Chennai",7923290652,B-04
+45,Registration,500.00,Kajol.S,25,"No 73, EVK Sampath Road, Vepery, Chennai",9852100056,B-05
+46,Annual,3500.00,Raghu.M,35,"56 NEW NO 1, 323, Aringer Anna Nagar 3rd St, Saraswathy Nagar North, Neelankarai, Chennai",8800178542,B-06
+47,Registration,500.00,Simran.S,32,"23/27, Sadayappan St, Mandavelipakkam, Mandaveli, Chennai",9481059221,B-07
+48,"Haly Yearly",2700.00,Krishna.M,24,"25, Adyar Bridge Rd, opp. Malar hospital, Gandhi Nagar, Adyar, Chennai",9922180564,B-08
+49,Registration,500.00,Lavanya.K,29,"No-39/20/1 Seethammal Road, Alwarpet, Lubdhi Colony, Teynampet, Chennai",7902188541,B-09
+50,"Haly Yearly",2700.00,Ryan.S,21,"1/259, Thalambur Rd, Egattur, Navalur, Chennai",9642198452,B-10
+51,Registration,500.00,Nikhil.K,24," Plot No. 22, 3rd Main Road, Vinayagar Koil Street, Thoraipakkam, Chennai",9840056789,B-06
+52,Registration,500.00,Isha.A,28,"Norton 1st Street, Mandavelipakkam, Near Sowmya's Bakery, Mandaveli, Chennai",9094812345,B-09
+53,Annual,3500.00,Sneha.M,30," 4th Main Rd, near N Supermarket, Anna Nagar, Chennai.",9952956789,B-02
+54,"Haly Yearly",2700.00,Vikram.S,20," No.29, 1st Floor, 4th Avenue, Ashok Nagar, Chennai",8560165012,B-05
+55,Registration,500.00,Geetha.S,31,"No. 8, 6th Avenue, Besant Nagar, Chennai ",9901278022,B-04
+56,Annual,3500.00,Aarav.S,27,"No.17, 2nd Floor, Kotturpuram, Chennai",8550123400,B-01
+57,"Haly Yearly",2700.00,praveen.S,33,"11th Main Rd, near Shankar IAS Academy (TNPSC Building), Anna Nagar, Chennai",9198341032,B-02
+58,"Haly Yearly",2700.00,Mythili.R,19,"No.15, 2nd Floor, 5th Cross Street, Ram Nagar, Velachery, Chennai",9100178642,B-03
+59,Annual,3500.00,Kamali.S,29," No. 27, 3rd Cross Street, Indira Nagar, Adyar, Chennai",8662190790,B-08
+60,Registration,500.00,Thulasi.M,36,"12/6, 2nd Cross Street, Sholinganallur, Near Thoraipakkam, Chennai",9380155210,B-06
